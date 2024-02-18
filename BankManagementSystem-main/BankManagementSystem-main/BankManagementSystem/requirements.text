@@ -1,0 +1,7 @@
+asgiref==3.5.2
+ccard==0.1.9
+Django==4.1.3
+django-address-model==1.0.4
+django-jazzmin==2.5.0
+sqlparse==0.4.3
+mysqlclient
